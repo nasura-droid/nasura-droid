@@ -1,4 +1,4 @@
-building a large scale churn engine
+working on a global churn engine
 
 <!---
 nasura-droid/nasura-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
